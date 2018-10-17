@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-right-sidebar
 title:  "How much fuel"
 author: sal
 categories: [ Jekyll, tutorial ]

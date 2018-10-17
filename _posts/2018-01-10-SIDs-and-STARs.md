@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-right-sidebar
 title:  "SIDs and STARs"
 author: john
 categories: [ Jekyll, tutorial ]

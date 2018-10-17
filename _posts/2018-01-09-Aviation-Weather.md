@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-right-sidebar
 title:  "Aviation Weather"
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg

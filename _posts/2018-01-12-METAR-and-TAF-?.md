@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-right-sidebar
 title:  "METAR and TAF?"
 author: Andy
 categories: [ Jekyll, tutorial ]

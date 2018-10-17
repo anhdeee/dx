@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-right-sidebar
 title:  "Flight Planning"
 author: Andy
 categories: [ Jekyll, tutorial ]
