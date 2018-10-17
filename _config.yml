@@ -1,0 +1,40 @@
+# Site
+name: Affiliates Theme for Jekyll
+description: Jekyll Theme for Blogging
+meta_description: "Jekyll theme for blogging."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+paginate: 12
+baseurl: 
+email: 'aqn.andrew@gmail.com'
+google_analytics: ''
+disqus: ''
+sharethis:
+
+# Authors
+authors:
+  sal:
+    name: Andy
+    display_name:
+    gravatar:
+    email:
+    web:
+    twitter:
+    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-archives
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+
+# Other
+markdown: kramdown
+highlighter: rouge
