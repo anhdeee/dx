@@ -1,11 +1,11 @@
 # Site
-name: Affiliates Theme for Jekyll
-description: Jekyll Theme for Blogging
-meta_description: "Jekyll theme for blogging."
-logo: 'assets/images/logo.png'
+name: Above Ground Level
+description: Aviation News
+meta_description: "Aviation blog"
+logo: 'assets/images/mainlogo.png'
 favicon: 'assets/images/favicon.ico'
-paginate: 12
-baseurl: 
+paginate: 8
+baseurl:
 email: 'aqn.andrew@gmail.com'
 google_analytics: ''
 disqus: ''
@@ -13,14 +13,14 @@ sharethis:
 
 # Authors
 authors:
-  sal:
+  Andy:
     name: Andy
     display_name:
     gravatar:
     email:
     web:
     twitter:
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    description: "My name is Andy and I am a Aircraft Dispatcher. Holla!"
 
 # Plugins
 plugins:
