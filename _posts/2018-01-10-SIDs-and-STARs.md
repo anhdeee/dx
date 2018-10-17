@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Markdown Example"
+title:  "SIDs and STARs"
 author: john
 categories: [ Jekyll, tutorial ]
 image: assets/images/6.jpg
