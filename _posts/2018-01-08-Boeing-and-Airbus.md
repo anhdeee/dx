@@ -1,7 +1,7 @@
 ---
 layout: post-right-sidebar
 title:  "Boeing and Airbus"
-author: sal
+author: Andy
 categories: [ Jekyll, tutorial ]
 image: assets/images/3.jpg
 ---

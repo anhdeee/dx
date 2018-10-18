@@ -1,7 +1,7 @@
 ---
 layout: post-right-sidebar
 title:  "How much fuel"
-author: sal
+author: Andy
 categories: [ Jekyll, tutorial ]
 image: assets/images/5.jpg
 featured: false

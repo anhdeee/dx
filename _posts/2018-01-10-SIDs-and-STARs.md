@@ -1,7 +1,7 @@
 ---
 layout: post-right-sidebar
 title:  "SIDs and STARs"
-author: john
+author: Andy
 categories: [ Jekyll, tutorial ]
 image: assets/images/6.jpg
 ---

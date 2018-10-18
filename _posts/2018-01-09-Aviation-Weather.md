@@ -1,6 +1,7 @@
 ---
 layout: post-right-sidebar
 title:  "Aviation Weather"
+author: Andy
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
 featured: true
