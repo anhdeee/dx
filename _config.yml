@@ -3,7 +3,7 @@ name: Above Ground Level
 description: Aviation News
 meta_description: "Aviation blog"
 logo: 'assets/images/mainlogo.png'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/logofooter.png'
 paginate: 8
 baseurl:
 email: 'aqn.andrew@gmail.com'
