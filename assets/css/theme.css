@@ -323,7 +323,6 @@ span.post-name a,span.post-read-more a:hover {
 }
 .intro {
     background-image:url(../images/flightdeck.jpg);
-    /* Change resolution of bg image. Too big */
     background-size:cover;
     padding: 9rem 0;
     margin-top:-87px;
@@ -354,7 +353,7 @@ span.post-name a,span.post-read-more a:hover {
 }
 .wrapintro {
     background: #fff;
-    width: 700px;
+    width: auto;
     padding: 3rem;
     max-width: 90%;
     margin: 0px auto;
