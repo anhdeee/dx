@@ -14,13 +14,13 @@ sharethis:
 # Authors
 authors:
   Andy:
-    name: Andy
+    name: 
     display_name:
     gravatar:
     email:
     web:
     twitter:
-    description: "My name is Andy and I am a Aircraft Dispatcher. Holla!"
+    description:
 
 # Plugins
 plugins:
