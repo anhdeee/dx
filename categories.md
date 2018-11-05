@@ -1,5 +1,5 @@
 ---
-layout: post-right-sidebar
+layout: page
 title: "Categories"
 ---
 Becoming an Aircraft Dispatcher
