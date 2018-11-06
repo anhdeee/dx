@@ -2,8 +2,9 @@
 layout: post-right-sidebar
 title:  "What are Aircraft Dispatchers?"
 image: assets/images/NOC.jpg
+featured: true
 ---
-Aircraft dispatchers (aka flight dispatchers) are people you don't think of first when you look at the aviation industry.  There are number of jobs that are outside of being a pilot, flight attendant or mechanic that still come with significant responsibility. Aircraft dispatchers are employed by airlines and work where their main operations center is located. Here are some of the things they have to do for each and every flight:
+Aircraft dispatchers (aka flight dispatchers) are people you don't think of first when you look at the aviation industry.  There are number of jobs that are outside of being a pilot, flight attendant or mechanic that still come with significant responsibility. Aircraft dispatchers are employed by airlines and work where their main operations center is located (above picture is Southwest Airlines Network Operation Control, NOC Dallas, TX). Here are some of the things they have to do for each and every flight:
 
 #### Weather Monitoring
 Probably one of the first things you do when you start your shift is looking at the day's weather and see what will impact your flights. An aircraft dispatcher checks visibility at departure and destination airports and if needed, alternate airports. An extensive knowledge of weather and forecasting is required in order to provide pilots with accurate information.
