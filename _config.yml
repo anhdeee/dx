@@ -4,7 +4,7 @@ description: Aviation News
 meta_description: "Aviation blog"
 logo: 'assets/images/mainlogo.png'
 favicon: 'assets/images/logofooter.png'
-paginate: 8
+paginate: 4
 baseurl:
 email: 'aqn.andrew@gmail.com'
 google_analytics: ''
@@ -14,7 +14,7 @@ sharethis:
 # Authors
 authors:
   Andy:
-    name: 
+    name:
     display_name:
     gravatar:
     email:
