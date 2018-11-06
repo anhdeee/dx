@@ -1,7 +1,7 @@
 ---
 layout: post-right-sidebar
 title:  "What are Aircraft Dispatchers?"
-image: assets/images/2.jpg
+image: assets/images/NOC.jpg
 ---
 Aircraft dispatchers (aka flight dispatchers) are people you don't think of first when you look at the aviation industry.  There are number of jobs that are outside of being a pilot, flight attendant or mechanic that still come with significant responsibility. Aircraft dispatchers are employed by airlines and work where their main operations center is located. Here are some of the things they have to do for each and every flight:
 
