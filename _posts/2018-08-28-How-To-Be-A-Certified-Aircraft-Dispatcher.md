@@ -2,6 +2,7 @@
 layout: post-right-sidebar
 title:  "How To Be A Certified Aircraft Dispatcher"
 image: assets/images/testingcenter.jpg
+featured: true
 ---
 To be a Aircraft Dispatcher, you need to pass the written exam of a passing grade of 70% and then an oral exam. You can take the ADX written exam as early as 21 years of age. However, you have to wait until 23 years of age to be officially granted the certification. The American Flight Standards Service (AFS) of the Federal Aviation Administration (FAA) created a practical test that is divided into six parts, as a standard to determine if the applicant is qualified to be a licensed [Aircraft Dispatcher]({{ site.baseurl }}{% post_url 2018-07-15-What-Are-Aircraft-Dispatchers? %}).
 
