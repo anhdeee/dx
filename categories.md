@@ -7,8 +7,8 @@ Aircraft Dispatch 101
 + SIDs and STARs
 + What Is On A Flight Release?
 Becoming an Aircraft Dispatcher
++ What are Flight Dispatchers and How To Become One
 + [Aviation Weather]({{ site.baseurl }}{% post_url 2018-01-09-Aviation-Weather %})
-+ Where To Get My FAA Dispatch Certification?
 
 FAA Dispatcher License & Schooling
 
