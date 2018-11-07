@@ -9,7 +9,7 @@ Becoming an Aircraft Dispatcher
 
 FAA Dispatcher License & Schooling
 + [How To Be A Certified Aircraft Dispatcher]({{ site.baseurl }}{% post_url 2018-08-28-How-To-Be-A-Certified-Aircraft-Dispatcher %})
-+ [FAA Aircraft Dispatch Certification Test]({{ site.baseurl }}{% post_url 2018-09-11-FAA-Aircraft-Dispatch-Certification-Test %})
++ [FAA Aircraft Dispatch Knowledge and Practical Test]({{ site.baseurl }}{% post_url 2018-09-11-FAA-Aircraft-Dispatch-Knowledge-and-Practical-Test %})
 
 Back In The Day
 
