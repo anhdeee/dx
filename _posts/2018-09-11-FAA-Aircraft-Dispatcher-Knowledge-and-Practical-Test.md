@@ -3,7 +3,13 @@ layout: post-right-sidebar
 title:  "FAA Aircraft Dispatcher Knowledge and Practical Test"
 image: assets/images/4.jpg
 ---
-When you start your schooling, the first two weeks will be heavily focused on preparing for the Aircraft Dispatch Knowledge Exam (ADX).
+When you start your schooling, the first two weeks will be heavily focused on preparing for the Aircraft Dispatch Knowledge Exam (ADX). It is an 80-question, standardized multiple-choice test that has a 3 1/2 hour time limit. The questions and answer choices, along with the figures, diagrams, and images that are utilized as references for the test are widely known, and published in a variety of industry test-prep books, software, and mobile device applications. You need a passing score of 70% and above to continue on for the practical portion, which we will discuss in a bit.
+
+As it IS a standardized test, the questions do not have a strong correlation of real-life dispatching skills. The ADX covers a wide range of aviation related topics that you will never do as a dispatcher.  This test is the exact the same as the Air Transport Pilot (ATP) Exam that pilots must pass to fly commercially. As stated earlier, the questions and answers are published in various test-prep publications and can be passed with rote learning. It is in your best interest to read over the material before your class starts. Also, when it comes time for applying, employers do not care what you scored on your ADX or what school you attended. All they care is if you passed and have your license. If you fail your ADX you may retake it for additional $150.
+
+
+
+
 
 
 
