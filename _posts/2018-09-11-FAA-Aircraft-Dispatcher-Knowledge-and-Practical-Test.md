@@ -1,9 +1,9 @@
 ---
 layout: post-right-sidebar
-title:  "FAA Aircraft Dispatch Knowledge and Practical Test"
+title:  "FAA Aircraft Dispatcher Knowledge and Practical Test"
 image: assets/images/4.jpg
 ---
-
+When you start your schooling, the first two weeks will be heavily focused on preparing for the Aircraft Dispatch Knowledge Exam (ADX).
 
 
 
