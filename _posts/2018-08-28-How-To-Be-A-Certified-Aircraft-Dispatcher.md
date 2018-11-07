@@ -1,7 +1,7 @@
 ---
 layout: post-right-sidebar
 title:  "How To Be A Certified Aircraft Dispatcher"
-image: assets/images/testingcenter.jpg
+image: assets/images/dispatch.jpg
 featured: true
 ---
 To be a Aircraft Dispatcher, you need to be at least 23 years old, pass a written FAA Aircraft Dispatcher Knowledge Exam (ADX) and Practical examination.

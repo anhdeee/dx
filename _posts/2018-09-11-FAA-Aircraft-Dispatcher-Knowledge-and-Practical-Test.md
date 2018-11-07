@@ -1,7 +1,7 @@
 ---
 layout: post-right-sidebar
 title:  "FAA Aircraft Dispatcher Knowledge and Practical Test"
-image: assets/images/4.jpg
+image: assets/images/testingcenter.jpg
 ---
 ## ADX
 When you start your schooling, the first two weeks will be heavily focused on preparing for the Aircraft Dispatch Knowledge Exam (ADX). It is an 80-question, standardized multiple-choice test that has a 3 1/2 hour time limit. The questions and answer choices, along with the figures, diagrams, and images that are utilized as references for the test are widely known, and published in a variety of industry test-prep books, software, and mobile device applications. You need a passing score of 70% and above to continue on for the practical portion, which we will discuss in a bit.
