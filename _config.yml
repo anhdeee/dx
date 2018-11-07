@@ -1,9 +1,9 @@
 # Site
 name: Above Ground Level
 description: Aviation News
-meta_description: "Aviation blog"
+meta_description: "Aircraft Dispatcher Blog"
 logo: 'assets/images/mainlogo.png'
-favicon: 'assets/images/logofooter.png'
+favicon:
 paginate: 4
 baseurl:
 email: 'aqn.andrew@gmail.com'
