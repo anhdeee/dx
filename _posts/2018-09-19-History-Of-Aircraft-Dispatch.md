@@ -1,7 +1,7 @@
 ---
 layout: post-right-sidebar
 title:  "History of Aircraft Dispatch"
-image: assets/images/6.jpg
+image: assets/images/wrightbros.jpg
 ---
 There was no well-trained and skill aircraft dispatcher warning Wilbur and Orville Wright of the turbulent weather they would experience at 20 feet above the ground. These days the planes are a lot bigger, a lot heavier, and filled with a lot more people. Thousands of planes are in the air as you read this. Buzzing around at thousands of feet above the ground; taking people to important places or just on holiday. Keeping those planes in the air are a system of checks, balances, and most importantly, some really talented, professional, and passionate individuals who have decided to make a career out of thin air… so to speak. All of them went through rigorous training at an aircraft dispatch school.
 
