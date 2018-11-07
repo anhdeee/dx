@@ -12,6 +12,6 @@ FAA Dispatcher License & Schooling
 + [FAA Aircraft Dispatcher Knowledge and Practical Test]({{ site.baseurl }}{% post_url 2018-09-11-FAA-Aircraft-Dispatcher-Knowledge-and-Practical-Test %})
 
 Back In The Day
-
++ [History of Aircraft Dispatch]({{ site.baseurl }}{% post_url 2018-09-19-History-Of-Aircraft-Dispatch %})
 
 Other Aviation Resources

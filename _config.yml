@@ -4,7 +4,7 @@ description: Aviation News
 meta_description: "Aircraft Dispatcher Blog"
 logo: 'assets/images/mainlogo.png'
 favicon:
-paginate: 4
+paginate: 2
 baseurl:
 email: 'aqn.andrew@gmail.com'
 google_analytics: ''
